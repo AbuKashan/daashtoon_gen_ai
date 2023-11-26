@@ -21,4 +21,4 @@ Style Image
 
 Result Image
 
-![1701014745052](https://github.com/AbuKashan/daashtoon_gen_ai/blob/main/result.jpg)
+![1701014745052](https://github.com/AbuKashan/daashtoon_gen_ai/blob/main/result2.png)
