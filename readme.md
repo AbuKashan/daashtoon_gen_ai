@@ -12,13 +12,13 @@ You can aslo upload the ipynb file onto colab and upload images and run the code
 
 ### Another result from above code
 
-[![1701014713192](image/readme/1701014713192.png)](https://github.com/AbuKashan/daashtoon_gen_ai/blob/main/leonard.jpg)
+![1701014713192](https://github.com/AbuKashan/daashtoon_gen_ai/blob/main/leonard.jpg)
 
 Style Image
 
-[![1701014733163](image/readme/1701014733163.png)](https://github.com/AbuKashan/daashtoon_gen_ai/blob/main/starry_night.jpg)
+![1701014733163](https://github.com/AbuKashan/daashtoon_gen_ai/blob/main/starry_night.jpg)
 
 
 Result Image
 
-[![1701014745052](image/readme/1701014745052.png)](https://github.com/AbuKashan/daashtoon_gen_ai/blob/main/result.jpg)
+![1701014745052](https://github.com/AbuKashan/daashtoon_gen_ai/blob/main/result.jpg)
